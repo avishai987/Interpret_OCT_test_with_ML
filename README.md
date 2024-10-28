@@ -14,3 +14,6 @@ NORMAL - Normal retina. Examples:
 
 
 The database contains 84,495 images in JPEG format, divided into train, test, and validation sets. Each year, 30 million OCT scans are performed, and the analysis and interpretation of each scan take significant time. Therefore, a tool that can classify diseases accurately is crucial for effective diagnosis and treatment. For example, patients with DME or CNV will need immediate medical intervention, whereas patients with DRUSEN will require monitoring.
+
+Data link: 
+https://data.mendeley.com/datasets/rscbjbr9sj/2
