@@ -17,3 +17,5 @@ The database contains 84,495 images in JPEG format, divided into train, test, an
 
 Data link: 
 https://data.mendeley.com/datasets/rscbjbr9sj/2
+
+Results (in Hebrew): https://github.com/avishai987/Interpret_OCT_test_with_ML/blob/main/Report-%20Hebrew.pdf
